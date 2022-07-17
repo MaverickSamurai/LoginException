@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\LoginException\LoginException\LoginException\bin\Debug\netcoreapp3.1\LoginException.exe
+C:\Users\User\Desktop\LoginException\LoginException\LoginException\bin\Debug\netcoreapp3.1\LoginException.deps.json
+C:\Users\User\Desktop\LoginException\LoginException\LoginException\bin\Debug\netcoreapp3.1\LoginException.runtimeconfig.json
+C:\Users\User\Desktop\LoginException\LoginException\LoginException\bin\Debug\netcoreapp3.1\LoginException.runtimeconfig.dev.json
+C:\Users\User\Desktop\LoginException\LoginException\LoginException\bin\Debug\netcoreapp3.1\LoginException.dll
+C:\Users\User\Desktop\LoginException\LoginException\LoginException\bin\Debug\netcoreapp3.1\LoginException.pdb
+C:\Users\User\Desktop\LoginException\LoginException\LoginException\obj\Debug\netcoreapp3.1\LoginException.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LoginException\LoginException\LoginException\obj\Debug\netcoreapp3.1\LoginException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LoginException\LoginException\LoginException\obj\Debug\netcoreapp3.1\LoginException.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LoginException\LoginException\LoginException\obj\Debug\netcoreapp3.1\LoginException.AssemblyInfo.cs
+C:\Users\User\Desktop\LoginException\LoginException\LoginException\obj\Debug\netcoreapp3.1\LoginException.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LoginException\LoginException\LoginException\obj\Debug\netcoreapp3.1\LoginException.dll
+C:\Users\User\Desktop\LoginException\LoginException\LoginException\obj\Debug\netcoreapp3.1\LoginException.pdb
+C:\Users\User\Desktop\LoginException\LoginException\LoginException\obj\Debug\netcoreapp3.1\LoginException.genruntimeconfig.cache
